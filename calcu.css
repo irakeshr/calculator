@@ -121,3 +121,17 @@ border-radius: 18px;
  i:hover{
      color:rgb(0, 0, 0) ;
  }
+ input::placeholder{
+    font-size: medium;
+    color: #7a7a7a;
+ }
+ h1{
+    position: relative;
+    top: -230px;
+    left: 300px;
+    /* font-size: xx-large; */
+    color: #9f9898;
+    text-shadow: brown;
+    text-shadow: 2px -1px 0px #8f7777;
+
+ }
